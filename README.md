@@ -6,5 +6,5 @@ Nom, Prenom, Ville de résidence ainsi qu’un codeBarre unique associé.
 
 Ce projet a été réalisé en C#, il permet de rechercher, ajouter, modifier et supprimer un participant et de pouvoir générer un QR Code qui pourra être imprimer sur le badge des participants.
 
-Vous trouverez ci-dessus un fichier zip contenant le projet en question.
+Vous trouverez ci-dessus un fichier zip contenant le projet en question et ainsi que plusieurs vidéo qui montre le mode de fonctionnement du projet.
 
